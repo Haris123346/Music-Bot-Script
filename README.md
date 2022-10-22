@@ -24,11 +24,7 @@ Type `/help` to see list of commands.
 ・Hostable on [__**Heroku.**__]
 
 ・Hostable on [__**Replit.**__]
-***
 
-<p align="center"><img width="800px" src="https://cdn.discordapp.com/attachments/914513217659756585/1000984452228464640/unknown.png"/></p>
-
-***
 # Note:
 Use it but please give credits to author.
 
